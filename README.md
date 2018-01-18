@@ -1,2 +1,2 @@
 # audiolizer
-transform audi files to arrays
+transform audio files to arrays
